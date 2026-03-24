@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtrackerapp\\controllers\\followupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|solutionrelative:foodtrackerapp\\controllers\\followupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtrackerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|solutionrelative:foodtrackerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtrackerapp\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|solutionrelative:foodtrackerapp\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D52CB46-E8E7-42F7-AB45-6265DA79DEB7}|FoodTracker.Domain\\FoodTracker.Domain.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtracker.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D52CB46-E8E7-42F7-AB45-6265DA79DEB7}|FoodTracker.Domain\\FoodTracker.Domain.csproj|solutionrelative:foodtracker.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtrackerapp\\foodtrackerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|solutionrelative:foodtrackerapp\\foodtrackerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82735959-3DE9-48B7-9249-057CFD02B0A0}|FoodTrackerApp.Tests\\FoodTrackerApp.Tests.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtrackerapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82735959-3DE9-48B7-9249-057CFD02B0A0}|FoodTrackerApp.Tests\\FoodTrackerApp.Tests.csproj|solutionrelative:foodtrackerapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtrackerapp\\views\\followups\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|solutionrelative:foodtrackerapp\\views\\followups\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtrackerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|solutionrelative:foodtrackerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtrackerapp\\controllers\\inspectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|solutionrelative:foodtrackerapp\\controllers\\inspectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtrackerapp\\controllers\\premisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|solutionrelative:foodtrackerapp\\controllers\\premisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtrackerapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|solutionrelative:foodtrackerapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D52CB46-E8E7-42F7-AB45-6265DA79DEB7}|FoodTracker.Domain\\FoodTracker.Domain.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtracker.domain\\followup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D52CB46-E8E7-42F7-AB45-6265DA79DEB7}|FoodTracker.Domain\\FoodTracker.Domain.csproj|solutionrelative:foodtracker.domain\\followup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtrackerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|solutionrelative:foodtrackerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtrackerapp\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|solutionrelative:foodtrackerapp\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtrackerapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|solutionrelative:foodtrackerapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtrackerapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|solutionrelative:foodtrackerapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D52CB46-E8E7-42F7-AB45-6265DA79DEB7}|FoodTracker.Domain\\FoodTracker.Domain.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtracker.domain\\premises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D52CB46-E8E7-42F7-AB45-6265DA79DEB7}|FoodTracker.Domain\\FoodTracker.Domain.csproj|solutionrelative:foodtracker.domain\\premises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D52CB46-E8E7-42F7-AB45-6265DA79DEB7}|FoodTracker.Domain\\FoodTracker.Domain.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtracker.domain\\inspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D52CB46-E8E7-42F7-AB45-6265DA79DEB7}|FoodTracker.Domain\\FoodTracker.Domain.csproj|solutionrelative:foodtracker.domain\\inspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|c:\\users\\gabri\\source\\repos\\foodtrackerapp\\foodtrackerapp\\data\\migrations\\20260323105138_initialfoodtrackersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45D7EFC-3521-4421-BDAD-BEA7212BCDA0}|FoodTrackerApp\\FoodTrackerApp.csproj|solutionrelative:foodtrackerapp\\data\\migrations\\20260323105138_initialfoodtrackersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTracker.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "FoodTracker.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTracker.Domain\\Class1.cs",
+              "RelativeToolTip": "FoodTracker.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:41:28.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FollowUpsController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Controllers\\FollowUpsController.cs",
+              "RelativeDocumentMoniker": "FoodTrackerApp\\Controllers\\FollowUpsController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Controllers\\FollowUpsController.cs",
+              "RelativeToolTip": "FoodTrackerApp\\Controllers\\FollowUpsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:43:13.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FoodTrackerApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FoodTrackerApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:38:23.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FoodTrackerApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FoodTrackerApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-23T11:28:43.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodTrackerApp.csproj",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\FoodTrackerApp.csproj",
+              "RelativeDocumentMoniker": "FoodTrackerApp\\FoodTrackerApp.csproj",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\FoodTrackerApp.csproj",
+              "RelativeToolTip": "FoodTrackerApp\\FoodTrackerApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T10:46:55.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Models\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "FoodTrackerApp\\Models\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Models\\DashboardViewModel.cs",
+              "RelativeToolTip": "FoodTrackerApp\\Models\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:16:11.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PremisesController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Controllers\\PremisesController.cs",
+              "RelativeDocumentMoniker": "FoodTrackerApp\\Controllers\\PremisesController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Controllers\\PremisesController.cs",
+              "RelativeToolTip": "FoodTrackerApp\\Controllers\\PremisesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:48:45.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "FoodTrackerApp.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "FoodTrackerApp.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T12:26:33.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Views\\FollowUps\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoodTrackerApp\\Views\\FollowUps\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Views\\FollowUps\\Index.cshtml",
+              "RelativeToolTip": "FoodTrackerApp\\Views\\FollowUps\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-23T12:07:05.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InspectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Controllers\\InspectionsController.cs",
+              "RelativeDocumentMoniker": "FoodTrackerApp\\Controllers\\InspectionsController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Controllers\\InspectionsController.cs",
+              "RelativeToolTip": "FoodTrackerApp\\Controllers\\InspectionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:49:22.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FoodTrackerApp\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FoodTrackerApp\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:21:16.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FollowUp.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTracker.Domain\\FollowUp.cs",
+              "RelativeDocumentMoniker": "FoodTracker.Domain\\FollowUp.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTracker.Domain\\FollowUp.cs",
+              "RelativeToolTip": "FoodTracker.Domain\\FollowUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:43:36.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoodTrackerApp\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "FoodTrackerApp\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-23T11:25:15.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "FoodTrackerApp\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "FoodTrackerApp\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:06:02.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Program.cs",
+              "RelativeDocumentMoniker": "FoodTrackerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Program.cs",
+              "RelativeToolTip": "FoodTrackerApp\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAE8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:54:27.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260323105138_InitialFoodTrackerSetup.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Data\\Migrations\\20260323105138_InitialFoodTrackerSetup.cs",
+              "RelativeDocumentMoniker": "FoodTrackerApp\\Data\\Migrations\\20260323105138_InitialFoodTrackerSetup.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Data\\Migrations\\20260323105138_InitialFoodTrackerSetup.cs",
+              "RelativeToolTip": "FoodTrackerApp\\Data\\Migrations\\20260323105138_InitialFoodTrackerSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:51:38.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FoodTrackerApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTrackerApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FoodTrackerApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:48:00.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Inspection.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTracker.Domain\\Inspection.cs",
+              "RelativeDocumentMoniker": "FoodTracker.Domain\\Inspection.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTracker.Domain\\Inspection.cs",
+              "RelativeToolTip": "FoodTracker.Domain\\Inspection.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:43:20.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Premises.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTracker.Domain\\Premises.cs",
+              "RelativeDocumentMoniker": "FoodTracker.Domain\\Premises.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\FoodTrackerApp\\FoodTracker.Domain\\Premises.cs",
+              "RelativeToolTip": "FoodTracker.Domain\\Premises.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:43:02.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
